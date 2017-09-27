@@ -1,2 +1,2 @@
 # repositoryTestGitDuCrm
-permet de tester
+permet de tester et de comprendre surtout
